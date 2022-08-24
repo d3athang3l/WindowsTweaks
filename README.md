@@ -1,7 +1,10 @@
 # MicrosoftProducts
 
 ## Upgrade auf Winows 10/11 Pro
-
+> [massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts)
+```
+iwr -useb https://massgrave.dev/get | iex
+```
 
 ## Office installieren (Beta)
 Office entweder mit der `setup.exe` oder mit `winget` installieren. Diese ist Teil des [Office Deployment Tool](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117). .XML-Dateien können [hier](https://config.office.com/deploymentsettings) erstellt werden.
@@ -21,15 +24,38 @@ winget install Microsoft.Office --override "https://github.com/Pfeffimann18/Micr
 winget install Microsoft.Office --override "https://github.com/Pfeffimann18/MicrosoftProducts/blob/4bd347a9f1069274d7720c2d3ab0bff39826853c/Office/Office2021ProPlus++.xml"
 ```
 </br>
+
 ### Mit der `setup.exe`
 ```
 setup.exe /configure Office2021ProPlus++.xml
 ```
+</br>
 
+## Installation mit `winget`
 
-
-
-
-
-
-winget install -e --id Valve.Steam
+```
+winget install Valve.Steam
+winget install EpicGames.EpicGamesLauncher
+```
+```
+winget install NordVPN.NordVPN
+winget install Mozilla.Firefox
+winget install Spotify.Spotify
+```
+```
+winget install 7zip.7zip
+winget install Powersoftware.AnyBurn
+winget install Apple.iTunes
+winget install Apple.iCloud
+winget install Notepad++.Notepad++
+winget install VideoLAN.VLC
+winget install WhatsApp.WhatsApp
+winget install Telegram.TelegramDesktop
+winget install Audacity.Audacity
+winget install SoftDeluxe.FreeDownloadManager
+```
+```
+winget install Git.Git
+winget install GitHub.GitHubDesktop
+winget install XP9KHM4BK9FZ7Q # VSCode
+```
