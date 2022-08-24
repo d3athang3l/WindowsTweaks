@@ -1,16 +1,22 @@
-<Configuration ID="67d90e69-677e-42b7-9a2c-971b4940d0ee">
+<Configuration ID="73763f42-bee7-4b83-bcc4-141599b8bdea">
   <Add OfficeClientEdition="64" Channel="PerpetualVL2021">
     <Product ID="ProPlus2021Volume" PIDKEY="FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH">
       <Language ID="de-de" />
       <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="Teams" />
     </Product>
     <Product ID="VisioPro2021Volume" PIDKEY="KNH8D-FGHT4-T8RK3-CTDYJ-K2HT4">
       <Language ID="de-de" />
       <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="Teams" />
     </Product>
     <Product ID="ProjectPro2021Volume" PIDKEY="FTNWT-C6WBT-8HMGF-K9PRX-QV9H8">
       <Language ID="de-de" />
       <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="Teams" />
     </Product>
     <Product ID="ProofingTools">
       <Language ID="de-de" />
