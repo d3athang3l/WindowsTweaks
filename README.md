@@ -57,5 +57,5 @@ winget install SoftDeluxe.FreeDownloadManager
 ```
 winget install Git.Git
 winget install GitHub.GitHubDesktop
-winget install XP9KHM4BK9FZ7Q # VSCode
+winget install Microsoft.VisualStudioCode
 ```
