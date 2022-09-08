@@ -66,4 +66,12 @@ winget install Notepad++.Notepad++
 winget install WhatsApp.WhatsApp
 winget install Telegram.TelegramDesktop
 winget install Audacity.Audacity
+winget install HakuNeko.HakuNeko.Nightly
+```
+
+### Linux-Subsystem
+```
+winget install kalilinux.kalilinux
+winget install Canonical.Ubuntu.2204
+winget install Debian.Debian
 ```
