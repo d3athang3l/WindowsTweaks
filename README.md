@@ -43,7 +43,7 @@ winget install Spotify.Spotify
 winget install VideoLAN.VLC
 winget install SoftDeluxe.FreeDownloadManager
 ```
-### Code
+### Entwicklung und Code
 ```
 winget install Git.Git
 winget install GitHub.GitHubDesktop
