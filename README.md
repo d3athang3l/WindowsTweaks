@@ -32,30 +32,37 @@ setup.exe /configure Office2021ProPlus++.xml
 </br>
 
 ## Installation mit `winget`
+</br>
 
+### Grundlegende Programme
+```
+winget install 7zip.7zip
+winget install NordVPN.NordVPN
+winget install Mozilla.Firefox
+winget install Spotify.Spotify
+winget install VideoLAN.VLC
+winget install SoftDeluxe.FreeDownloadManager
+```
+### Code
+```
+winget install Git.Git
+winget install GitHub.GitHubDesktop
+winget install Microsoft.VisualStudioCode
+```
+
+### Gaming
 ```
 winget install Valve.Steam
 winget install EpicGames.EpicGamesLauncher
 ```
+
+### Sonstige
 ```
-winget install NordVPN.NordVPN
-winget install Mozilla.Firefox
-winget install Spotify.Spotify
-```
-```
-winget install 7zip.7zip
 winget install Powersoftware.AnyBurn
 winget install Apple.iTunes
 winget install Apple.iCloud
 winget install Notepad++.Notepad++
-winget install VideoLAN.VLC
 winget install WhatsApp.WhatsApp
 winget install Telegram.TelegramDesktop
 winget install Audacity.Audacity
-winget install SoftDeluxe.FreeDownloadManager
-```
-```
-winget install Git.Git
-winget install GitHub.GitHubDesktop
-winget install XP9KHM4BK9FZ7Q # VSCode
 ```
