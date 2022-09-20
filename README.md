@@ -5,6 +5,7 @@
 ```
 iwr -useb https://massgrave.dev/get | iex
 ```
+<a href="https://imgbox.com/MrLUI8st" target="_blank"><img src="https://thumbs2.imgbox.com/f5/56/MrLUI8st_t.png" alt="image host"/></a>
 
 ## Office installieren (Beta)
 Office entweder mit der `setup.exe` oder mit `winget` installieren. Diese ist Teil des [Office Deployment Tool](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117). .XML-Dateien können [hier](https://config.office.com/deploymentsettings) erstellt werden.
