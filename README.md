@@ -31,7 +31,7 @@ winget install Microsoft.Office --override "https://github.com/Pfeffimann18/Micr
 
 ### Mit der `setup.exe`
 ```
-setup.exe /configure Office2021ProPlus++.xml
+.\setup.exe /configure Office2021ProPlus++.xml
 ```
 </br>
 
